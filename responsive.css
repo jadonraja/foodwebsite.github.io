@@ -1,0 +1,325 @@
+@media only screen and (max-width: 1200px) {
+    .subscription {
+      padding-left: 35px;
+
+    }
+    html{
+        overflow-x: hidden;
+    }
+  }
+  @media only screen and (max-width: 1144px) {
+    .city {
+      padding: 50px 30px;
+
+    }
+  }
+  @media only screen and (max-width: 1015px) {
+    .nav li {
+        display: inline-block;
+        margin-left: 30px;
+        margin-right: 35px;
+    }
+    .nav li a {
+      padding: 8px 0.5px;
+
+    }
+    html{
+        font-size: 18px;
+    }
+    section{
+        padding: 60px 0px;
+    }
+    .review-sec {
+        padding: 50px 35px;
+  
+      }
+    .btn-app img{
+        height: 85px;
+        width: auto;
+        padding-left: 120px;
+        margin-top: 15px;
+      margin-right: 20px;
+      }
+  }
+  @media only screen and (max-width: 964px) {
+    .plaans {
+      font-size: 16px;
+    }
+    .city-pic {
+        font-size: 15px;
+    }
+    .icon-small{
+        width: 25px;
+        text-align: center;
+        color: #e67e22;
+        font-size: 100%;
+        margin-right: 7px;
+        margin-top: -15px;
+    }
+  }
+  @media only screen and (max-width: 856px) {
+    .nav li {
+        display: inline-block;
+        margin-left: 20px;
+        margin-right: 25px;
+        font-size: 16px;
+    }
+    .city-pic {
+        font-size: 13px;
+    }
+    .icon-small{
+        width: 20px;
+        text-align: center;
+        color: #e67e22;
+        font-size: 80%;
+        margin-right: 6px;
+        margin-top: -15px;
+    }
+    .plan div ul li{
+        padding: 3px 0;
+    }
+    plan-meal{
+        font-size: 60%;
+        
+    }
+    .plan-price span{
+        font-size: 17%;
+        font-weight: 300;
+    }
+    .rbtn2{
+        margin: 2px 5px;
+    }
+    .rbtn1{
+        margin: 2px 5px;
+    }
+}
+
+@media only screen and (max-width: 793px) {
+    .rbtn2{
+        margin: 2px 5px;
+    }
+    .btn-app img{
+        height: 85px;
+        width: auto;
+        padding-left: 50px;
+        margin-top: 15px;
+        margin-right: 20px;
+      
+      }
+}
+@media only screen and (max-width: 757px) {
+    .rbtn2{
+        margin: 2px 5px;
+        font-size: 13px;
+        padding: 7px 17px;
+    }
+    .btn-app img{
+        height: 85px;
+        width: auto;
+        padding-left: 50px;
+        margin-top: 15px;
+        margin-right: 20px;
+      
+      }
+      footer{
+        padding: 80px 80px;
+      }
+      .city-pic{
+        font-size: 12px;
+      }
+      .icon-small{
+        width: 15px;
+        text-align: center;
+        color: #e67e22;
+        font-size: 60%;
+        margin-right: 5px;
+        margin-top: -15px;
+    }
+}
+@media only screen and (max-width: 725px) {
+    .nav li {
+        display: inline-block;
+        margin-left: 20px;
+        margin-right: 25px;
+    }
+    .nav li a {
+      padding: 8px 0.5px;
+
+
+    }
+    .logo{
+        height: 70px;
+        width: auto;
+        margin-top: 20px;
+    }
+    .btn-app img{
+        height: 75px;
+        width: auto;
+        padding-left: 40px;
+        margin-top: 15px;
+        margin-right: 20px;
+      
+      }
+      footer{
+        padding: 100px 100px;
+      }
+  }
+  @media only screen and (max-width: 694px) {
+    .nav li {
+        display: inline-block;
+        margin-left: 15px;
+        margin-right: 20px;
+    }
+    .nav li a {
+      padding: 8px 0.5px;
+
+
+    }
+    .logo{
+        height: 80px;
+        width: auto;
+        margin-top: 30px;
+    }
+    .foot-nav{
+        list-style: none;
+        display: flex;
+        gap: 22px;
+    }
+    .foot-icon{
+        list-style: none;
+        display: flex;
+        gap: 22px;
+}
+.plan-price span{
+    font-size: 15%;
+    font-weight: 300;
+}
+#ftre{
+    padding-right: 15px;
+}
+.icon{
+    font-size: 250%;
+    display: block;
+    color: #e67e22;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding-left: 70px;
+}
+.btn-app img{
+    display: none;
+  }
+  .main-nav li a{
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+    .rbtn2{
+        margin: 1px 3px;
+        font-size: 9px;
+        padding: 4px 12px;
+    }
+    .plan-price{
+        font-size: 30px;
+    }
+    .plan-meal{
+        font-size: 11px;
+    }
+    footer{
+        padding: 100px 150px;
+        
+    }
+    .foot-nav{
+        list-style: none;
+        display: flex;
+        gap: 18px;
+    }
+    .foot-icon{
+        list-style: none;
+        display: flex;
+        gap: 18px;
+}
+.city-pic{
+    margin-right: 30px;
+}
+}
+@media only screen and (max-width: 480px) {
+    .city-pic{
+        
+        gap: 10px;
+        font-size: 7px;
+    }
+    .icon-small{
+        width: 10px;
+        text-align: center;
+        color: #e67e22;
+        font-size: 40%;
+        margin-right: 5px;
+        margin-top: -5px;
+    }
+    footer{
+        padding: 100px 200px;
+        font-size: 11px;
+    }
+    .icon{
+        font-size: 200%;
+        display: block;
+        color: #e67e22;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        padding-left: 50px;
+    }
+    .rbtn2{
+        margin: 1px 2px;
+        font-size: 8px;
+        padding: 3px 10px;
+    }
+}
+@media only screen and (max-width: 406px) {
+    .icon{
+        font-size: 150%;
+        display: block;
+        color: #e67e22;
+        margin-bottom: 10px;
+        margin-top: 20px;
+        padding-left: 40px;
+  }
+  .feature{
+    font-size: 10px;
+  }
+  plan-meal{
+    font-size: 40%;
+    
+}
+  .plan-meal div ul li{
+    font-size: 1px;
+  }
+  .plan-price{
+    font-size: 20px;
+}
+.plan h3{
+    font-size: 12px;
+}
+.rbtn2{
+    margin: 1px 2px;
+    font-size: 6px;
+    padding: 2px 8px;
+}
+.abc1{
+    padding: 8px 25px;
+    margin-left: 20px;
+    
+}
+.abc{
+    padding: 8px 25px;
+    margin-left: 20px;
+    
+}
+.subs{
+    gap: 5px;
+    margin-right: 25px;
+}
+.plan div {
+    padding: 10px;
+}
+
+}
